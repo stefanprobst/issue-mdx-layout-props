@@ -1,0 +1,8 @@
+{
+  "main": "index.mjs",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "xdm": "^3.3.0"
+  }
+}
